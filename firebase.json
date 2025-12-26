@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "doxalarb",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
